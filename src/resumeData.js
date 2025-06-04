@@ -1,10 +1,10 @@
 export default {
-  name: "Student Name",
-  email: "student@example.com",
-  phone: "123-456-7890",
+  name: "Sam Lukashok",
+  email: "samluk@umich.edu",
+  phone: "646-689-4457",
   education: [
-    { degree: "B.Sc. Computer Science", school: "University X", year: "2024" },
-    { degree: "High School Diploma", school: "School Y", year: "2020" }
+    { degree: "Computer Science", school: "University of Michigan LSA", year: "class of 2028" },
+    { degree: "High School Diploma", school: "Sar High School", year: "2020" }
   ],
   experience: [
     {
