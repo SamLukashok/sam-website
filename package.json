@@ -1,0 +1,12 @@
+{
+  "name": "resume-site",
+  "version": "1.0.0",
+  "description": "React resume website",
+  "scripts": {
+    "start": "python3 -m http.server 3000 -d src"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
